@@ -1,5 +1,3 @@
-package TwentyFour;
-
 //Prime Adam
 import java.util.*;
 class PrimeAdam
